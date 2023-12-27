@@ -35,11 +35,14 @@ To identify patterns that determine whether a game is successful or not. This wi
 
 Data for 2016 may be incomplete.
 
+## Language
+- Python | worked in Jupyter Notebook
+
 ## Libraries
 - pandas
 - numpy
 - scipy
-  - scipy: levene, ttest_ind
+  - stats: levene, ttest_ind
 - matplotlib
 
 # Conclusions
